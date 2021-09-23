@@ -1,5 +1,5 @@
   <a href="https://github.com/github_username/repo_name">
-    <img src="assets/cover.png" alt="Logo" width="" height="">
+    <img src="assets/Cover.png" alt="Logo" width="" height="">
   </a>
 
 # Calculadora com React Native

@@ -1,5 +1,5 @@
   <a href="https://github.com/github_username/repo_name">
-    <img src="assets/cover.jpg" alt="Logo" width="" height="">
+    <img src="assets/cover.png" alt="Logo" width="" height="">
   </a>
 
 # Calculadora com React Native
@@ -50,7 +50,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/jocelymarques/react-native-calculator.git>
+$ git clone https://github.com/jocelymarques/react-native-calculator.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd react-native-calculator

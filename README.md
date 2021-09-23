@@ -1,4 +1,4 @@
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/jocelymarques/repo_name">
     <img src="assets/Cover.png" alt="Logo" width="" height="">
   </a>
 
